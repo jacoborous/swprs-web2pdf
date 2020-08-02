@@ -1,0 +1,834 @@
+[Skip to
+content](#content)
+
+[](https://swprs.org/)
+
+<div class="cover">
+
+</div>
+
+[Search](#search-container)
+
+<div id="search-container" class="header-search-block bg-graphite hidden">
+
+<span class="screen-reader-text">Search for:</span>
+
+</div>
+
+<div class="header-inner section-inner">
+
+[![Swiss Policy Research
+Logo](https://swprs.files.wordpress.com/2020/05/swiss-policy-research-logo-300.png)](https://swprs.org/)
+
+[Swiss Policy Research](https://swprs.org/)
+
+Geopolitics and
+    Media
+
+</div>
+
+<div class="navigation section no-padding bg-dark">
+
+Menu
+
+<div class="main-navigation">
+
+  - <span id="menu-item-4374">[Start](https://swprs.org)</span>
+  - <span id="menu-item-5941">[Studien](https://swprs.org/srf-propaganda-analyse/)</span>
+      - <span id="menu-item-4361">[SRF /
+        ZDF](https://swprs.org/srf-propaganda-analyse/)</span>
+      - <span id="menu-item-4359">[NZZ-Studie](https://swprs.org/die-nzz-studie/)</span>
+      - <span id="menu-item-4373">[Agenturen](https://swprs.org/der-propaganda-multiplikator/)</span>
+      - <span id="menu-item-7978">[Medienmatrix](https://swprs.org/die-propaganda-matrix/)</span>
+  - <span id="menu-item-9423">[Analysen](https://swprs.org/medien-navigator/)</span>
+      - <span id="menu-item-9414">[Navigator](https://swprs.org/medien-navigator/)</span>
+      - <span id="menu-item-8524">[Techniken](https://swprs.org/der-propaganda-schluessel/)</span>
+      - <span id="menu-item-10908">[Wikipedia](https://swprs.org/propaganda-in-der-wikipedia/)</span>
+      - <span id="menu-item-9920">[Kriege](https://swprs.org/logik-imperialer-kriege/)</span>
+  - <span id="menu-item-4362">[Netzwerke](https://swprs.org/netzwerk-medien-schweiz/)</span>
+      - <span id="menu-item-6283">[Schweiz](https://swprs.org/netzwerk-medien-schweiz/)</span>
+      - <span id="menu-item-7215">[Deutschland](https://swprs.org/netzwerk-medien-deutschland/)</span>
+      - <span id="menu-item-17401">[Österreich](https://swprs.org/medien-in-oesterreich/)</span>
+      - <span id="menu-item-7216">[USA](https://swprs.org/das-american-empire-und-seine-medien/)</span>
+  - <span id="menu-item-9228">[Fokus
+    I](https://swprs.org/bericht-eines-journalisten/)</span>
+      - <span id="menu-item-12119">[Journalistenbericht](https://swprs.org/bericht-eines-journalisten/)</span>
+      - <span id="menu-item-12117">[Russische
+        Propaganda](https://swprs.org/russische-propaganda/)</span>
+      - <span id="menu-item-12118">[Die
+        »Israel-Lobby«](https://swprs.org/die-israel-lobby-fakten-und-mythen/)</span>
+      - <span id="menu-item-13505">[Pädokriminalität](https://swprs.org/geopolitik-und-paedokriminalitaet/)</span>
+  - <span id="menu-item-17258">[Fokus
+    II](https://swprs.org/migration-und-medien/)</span>
+      - <span id="menu-item-32838">[Coronavirus](https://swprs.org/covid-19-hinweis-ii/)</span>
+      - <span id="menu-item-12939">[Integrity
+        Initiative](https://swprs.org/die-integrity-initiative/)</span>
+      - <span id="menu-item-17290">[Migration &
+        Medien](https://swprs.org/migration-und-medien/)</span>
+      - <span id="menu-item-17291">[Magnitsky
+        Act](https://swprs.org/der-fall-magnitsky/)</span>
+  - <span id="menu-item-21964">[Projekt](https://swprs.org/kontakt/)</span>
+      - <span id="menu-item-8525">[Kontakt](https://swprs.org/kontakt/)</span>
+      - <span id="menu-item-10193">[Seitenübersicht](https://swprs.org/uebersicht/)</span>
+      - <span id="menu-item-8637">[Medienspiegel](https://swprs.org/medienspiegel/)</span>
+      - <span id="menu-item-33287">[Donationen](https://swprs.org/donationen/)</span>
+  - <span id="menu-item-14415">[English](https://swprs.org/contact/)</span>
+
+</div>
+
+[Open
+Search](#)
+
+</div>
+
+<div class="wrapper section medium-padding">
+
+<div class="section-inner clear" data-role="main">
+
+<div id="content" class="content clear center">
+
+# Erfahrungsbericht eines Journalisten
+
+<div class="post-content clear">
+
+<div style="font-family:calibri, source sans pro;text-align:justify;font-variant:none;">
+
+Wie entsteht der Mainstream in den Medien? Woher kommt die Propaganda?
+Im folgenden Beitrag spricht erstmals ein Schweizer Journalist über
+seine langjährigen Erfahrungen.
+
+### Die Tunnelperspektive der «Mainstream-Medien»:  
+Wie es drinnen wirklich ist
+
+Gastbeitrag eines Schweizer Journalisten
+
+Januar 2018
+
+#### Das Geständnis
+
+Ich bin selbst schuldig, Teil des Systems zu sein oder zumindest das
+Spiel mitzumachen. Zwar versuche ich seit fast zwanzig Jahren mit allen
+erdenklichen Mitteln den Mainstream um alternative Perspektiven und
+unabhängige Stimmen zu bereichern. Sie mögen vereinzelt wahrgenommen
+werden, aber am Ende gehen sie im Mainstream-Lärm meist unter.
+
+Der Ausstieg aus den Mainstream-Medien war für mich bisher nur eine
+Option für den Fall, dass ich es nicht mehr aushalten sollte. Soweit,
+dass ein Einzeljournalist nicht mehr publizieren kann, was er für
+richtig hält, wollte ich es nicht kommen lassen. Nicht in einer
+Demokratie.
+
+Meine Strategie war immer, drinnen die subtile Gegenstimme zu sein,
+immer so weit zu gehen wie möglich. Als Redaktionsmitglied und
+Ressortleiter habe ich über Jahre versucht zu verstehen, wie Entscheide,
+in diese oder jene Richtung zu publizieren, zu Stande kamen – und wie
+ich sie beeinflussen konnte, ohne als zu konträr oder destruktiv zu
+gelten.
+
+Natürlich habe ich riskiert, die rote Linie zu überschreiten und habe
+sie auch überschritten und dafür gebüsst. Ich habe den Chefredaktoren
+und anderen Ressortleitern gesagt, wenn ich ihre Thesen falsch fand, ich
+habe argumentiert, gestritten, resigniert. Für die einen galt ich als
+Gewissen der Redaktion, an anderen perlte alles ab und weitere
+versuchten mich zu untergraben. Wenn der Alltag unerträglich wurde, half
+meistens ein Redaktionswechsel. So arbeitete ich bereits für diverse
+Schweizer Tages- und Wochenzeitungen, das Fernsehen, Agenturen und
+weitere Medienformate.
+
+Nun möchte ich möglichst anschaulich darstellen, was mich zu meinen
+Schlussfolgerungen führte.
+
+#### Entscheide ohne Verantwortung
+
+Auf die Frage, wieso die Medien oft voller einseitiger Berichte mit
+Tunnelblick sind, gibt es keine einfache Erklärung, aber ein paar
+fassbare Gründe. Nach zwei Jahrzehnten auf Redaktionen aller Formate
+weiss ich, wie Entscheide von Profilierungsgier, Gruppendynamik und
+Willkür geprägt sind. Und warum sachliche Argumente oftmals Floskeln wie
+„wir haben exklusiv“, „die anderen Medien haben“, oder „wir müssen dabei
+sein“ unterliegen.
+
+Die Entscheidungsprozesse, die zum jeweiligen Fokus und zur Gewichtung
+von Berichten führen, erscheinen für einzelne Journalisten vielfach
+beliebig und oft ist unklar, wie sie zustande kamen. Doch die Entscheide
+basieren auf einer klaren Wertehaltung, die viele Perspektiven
+ausblendet, sowie einer Quellenlage, die sehr selektiv ist.
+Verantwortlich für die Entscheide und ihre Konsequenzen fühlt sich
+sowieso niemand – der Chefredaktor übernimmt bei Beschwerden oder Klagen
+die Verantwortung aufgrund seiner Funktion.
+
+Dieses Fahrlässige, dieses Diffuse und Beliebige habe ich immer als
+Wursterei empfunden. Doch die Würste, die herauskamen, waren immer sehr
+normiert – konform mit einer Weltanschauung, wo schon immer klar ist,
+wer der Gute und wer der Böse ist. Schliesslich stammen die Quellen,
+wenn man sich das genau überlegt, vor allem von der „guten“ Seite.
+
+Die vorherrschenden Denkmuster sind schwer zu erfassen. Man ist zum
+Beispiel nicht treu gegenüber den Regierungsmitgliedern, aber weitgehend
+gegenüber ihren wichtigsten Interessen. Journalisten spielen gerne auf
+den Mann. Mit Personalisierungen lassen sich Leser erreichen. So wurde
+der amtierende Schweizer Wirtschaftsminister massiv angegriffen für das
+undurchsichtige Steuergeflecht seiner Firma. Seine Wirtschaftspolitik,
+zum Beispiel der Freihandel, wird aber nie so genau auseinandergenommen.
+
+Fehlerhafte Berichterstattung hat zudem selten Konsequenzen – höchstens
+ein Korrigendum. Selbst Bundesräte, deren Worte zugespitzt wurden bis
+hart an die Grenze des journalistisch Zulässigen, sind nach einer
+Schmollphase gerne wieder mit ihren Botschaften in der Publikation
+präsent.
+
+Das Grundproblem des Mainstream-Journalismus ist nicht, dass er bewusst
+einer Ideologie folgt oder bewusst eine Weltanschauung vertritt, sondern
+vielmehr seine Beliebigkeit, sein vorauseilender Gehorsam und die
+Selbstzensur, der wichtige Fragen und Quellen entgehen. Die
+Tunnel-Perspektive ist selbstauferlegt.
+
+#### Medienhäuser: Mehr oder weniger Angst
+
+Zu vergleichen, wo das Korsett am engsten war, wäre dumm. Die Spielräume
+sind abhängig von der Art des Mediums (Tages-, Wochenformat) und auch
+von der Position des Journalisten. Dennoch hat jeder Verlag seine
+Charakteristika, die das Umfeld der Redaktionen prägen.
+
+Nirgends war das Klima der Angst grösser und expliziter als beim
+grössten privaten Medienhaus der Schweiz. Die Angst vor der nächsten
+Sparrunde, Umstrukturierung, vor dem unerwarteten Seitenhieb in der
+Blattkritik. Immerhin gibt es die interne Blattkritik noch, aber sie hat
+oftmals wenig mit Qualitätsgarantie zu tun – sie dient eher als
+Führungsinstrument, um aufzubauen und abzuschiessen. Die Journalisten
+sind in, out oder toleriert.
+
+Wer out ist, wird selten entlassen, sondern im Plenum abgekanzelt oder
+ignoriert – aber nie so systematisch, dass es offensichtlich ist für die
+Mehrheit. Meistens setzt sich niemand für die Attackierten ein. Die
+meisten sind froh, dass sie nicht selbst an der Reihe sind.
+
+Das zweitgrösste private Medienhaus der Schweiz ist menschlich und auch
+finanziell grosszügiger. Es lag lange mehr Individualismus drin, schräge
+Vögel waren toleriert, die Redaktion lange weniger homogen als anderswo,
+was allerdings auch Extreme förderte.
+
+Bei diesem Medienhaus herrschte weniger Existenzangst, aber umso mehr
+Beliebigkeit. Jede neue Chefredaktion scheint für eine Mission
+ausgewählt worden zu sein, um “das Volk zu erreichen” und die Marke vor
+dem Niedergang zu retten. Im Ausland- und Politikteil werden die
+etablierten Meinungen gerne zugespitzt – Aufmerksamkeit um jeden Preis.
+
+Auch die Unternehmens-Interessenpolitik ist gnadenlos: In der Wirtschaft
+sind die Freunde des Konzernchefs publizistisch penetrant begleitet
+worden. Hochgeschrieben werden mussten wegen „oben“ gewisse Mode- und
+Uhrenfirmen befreundeter Unternehmer. Auch einige Banken- und
+Pharma-Chefs erhielten aus demselben Grund immer wieder einen
+prominenten Platz.
+
+In der News-Abteilung des öffentlichen Rundfunks dominiert die Angst der
+Leiter, zu „links“ oder angreifbar zu sein. Darum sind die News immer
+ein Mitschnitt von allem – nicht mehrheitsfähige Beiträge kommen nicht
+auf den Sender.
+
+Das Eigenständige in den Magazin-Formaten ist manchmal originell, aber
+oft irrelevant, und nie konträr. Eine der am tiefsten recherchierenden
+Sendungen brachte sogar den syrischen Präsidenten vor die Kamera, aber
+dem gängigen Narrativ konträre Fragen wurden dann doch nicht gestellt.
+
+Nirgends wollen die Redaktoren so bestätigt werden und gefallen wie beim
+TV. Was beim verbreiteten Typus Narzisst auch nicht ankommt, das ist
+Kritik. Es ist immer sehr aufschlussreich von Kameraleuten und Cuttern
+zu erfahren, wie sie von Redaktoren behandelt werden. Die
+TV-Entscheidungs­träger und viele Redaktoren halten ihren Journalismus
+dem der Printredaktionen für weitaus überlegen.
+
+Verlassen kann man ein solches Umfeld immer. Viele hielten es schlicht
+nicht mehr aus, arbeiten nun in der PR. Andere schreiben was sie
+wirklich denken für eines der leserfinanzierten Online-Magazine. Solange
+ich im Mainstream immer wieder in eine eigene Richtung schwimmen kann,
+bleibe ich.
+
+#### Journalismus zwischen Chaos und System
+
+Teil eines Systems zu sein – über diese Vorstellung würden viele
+Journalisten lachen. Der Alltag auf den Redaktionen ist meistens so
+unsystematisch, so beliebig und chaotisch, dass die Vorstellung einer
+Systematik geradezu absurd erscheint.
+
+Man kann der breiten Palette der Journalisten und Journalistinnen vieles
+vorwerfen. Aber, wenn sie merken würden, dass sie offensichtlich
+gesteuert würden oder einem vorgegebenen Narrativ folgen müssten, dann
+hätten wohl viele genügend Rückgrat und Know-how, um sich zu
+widersetzen.
+
+Dass sie bereits Teil eines bestimmten Narrativs sind und gewisse
+Denkmuster verinnerlicht haben, dieses Bewusstsein fehlt jedoch
+weitgehend.
+
+Das ist besonders auffällig in der Auslandberichterstattung. Dort
+herrscht die US-EU dominierte Sicht- und Erklärweise der Weltereignisse
+vor. Ich fragte mich über die Jahre oft, mit wem die Korres­pon­denten
+vor Ort sprechen und sich auseinandersetzen.
+
+Nicht die westlich orientierten Eliten, aber die lokalen Intellektuellen
+haben gerade in den Ländern Asiens vor dem Hintergrund ihrer eigenen
+Grosskulturen ganz andere Lesearten der globalen Entwicklung.
+
+Aber schon die Selektion der Korrespondenten – sie müssen sich meistens
+auf der Redaktion bewiesen haben – setzt der Offenheit gegenüber anderen
+Perspektiven Grenzen.
+
+Das Hauptproblem der Auslandleiter sind nicht Korrespondenten, die zu
+„faul“ sind, um ausserhalb des Büros zu recherchieren. Viel
+einschneidender ist, dass Auslandressorts zusehends an Bedeutung
+verlieren und ihre Mittel reduziert werden. Das bedeutet, dass zwar
+Artikel aus den Hotspot-Regionen Platz erhalten. Ein noch so guter
+Bericht über ein Land, das gerade nicht im Rampenlicht steht, ist intern
+schwierig zu verkaufen.
+
+Die Verantwortlichen müssen gegenüber Korrespondenten, von denen immer
+weniger ein Fixum haben, unverbindlich bleiben. Alle Stories, die nicht
+„zwingend“ sind wegen aktuellen Ereignissen, sind Manövriermasse. Die
+Frage, was „zwingend“ ist, ist ein Thema für sich. Meistens sind
+Berichte, die an ein Grossereignis (Anschlag, Wahlen) geknüpft sind,
+zwingender als Berichte, die inhaltlich oder journalistisch überragend
+sind.
+
+Vor diesem Hintergrund haben es Berichte mit eigenständigen Perspektiven
+oder solche, die nicht die „zwingenden Erwartungen“ erfüllen, schwierig.
+Korrespondenten haben entsprechend wenig Anreiz, solche Stories
+anzupacken.
+
+Auch die Inland/Politik-Ressorts sind voller „zwingender“ Ereignisse
+(Wahlen, Parlaments- und Bundesratsentscheide, Naturereignisse).
+Allerdings wird der News- und Primeur-Charakter ebenfalls stark
+gewichtet. Eine Definition dafür, was „News“ und was ein „Primeur“
+(Scoop) ist, habe ich noch nie gesehen. Es scheint dazu einen gewissen
+Konsens zu geben. Oder zumindest reagieren die Redaktionsleiter auf eine
+bestimmte Art von News sehr positiv. Berichte oder Interviews
+beispielsweise, die von Nachrichtenagenturen und der Konkurrenz
+nachgezogen, d.h. übernommen, werden, sind per se gut – weil das Werbung
+in eigener Sache ist.
+
+Ein Primeur, der einen „Nachzug“ generiert, kann ein sehr breit und tief
+recherchierter Bericht sein, der etwas wirklich Neues, Relevantes zu
+Tage fördert. Das ist es aber leider oft nicht. Es gibt viel einfachere
+Wege, solche Primeurs zu schaffen. Am einfachsten ist es, eine neue
+repräsentative Studie zu verwerten oder selbst eine solche in Auftrag
+zu geben. Oft sind Primeurs auch exklusiv gesteckte Geschichten – durch
+PR-Berater oder PR-Abteilungen von Parteien, Politikern, Unternehmen
+oder Institutionen. Ob es eine journalistische Leistung ist, wenn
+Journalisten oder Chefredaktoren der auflagenstärksten Zeitungen so
+etwas „gesteckt“ erhalten, lasse ich gerne offen.
+
+Meistens werden solche Deus-Ex-Machina-News in grossen
+Redaktionssitzungen auch nicht präsentiert, geschweige denn zur
+Diskussion gestellt. Hinterfragen kann der Einzeljournalist so erhaltene
+Stories schon, aber gemäss meiner Erfahrung sind solche „Exklusiv-News“
+gesetzt, Fragen werden ignoriert.
+
+Es wird immer noch debattiert in den Redaktionssitzungen. Aber die Dauer
+der Diskussionen hat abgenommen. Oft geht es um Detailfragen, seltener
+um Grundsätzliches. Die Frage, was ist uns für diese Ausgabe wichtig,
+wird nie gestellt. Immerhin gibt es ein Bewusstsein, dass Konzerne ihre
+Interessen vertreten, und dass Journalisten keine Konzern-PR machen
+sollen. „Das ist eine PR-Story“, diese Beurteilung gibt es immer wieder.
+
+Doch wo PR anfängt – diese Grenze ist flexibel. Wenn ein schwer
+erreichbarer Konzernchef einem Ressortleiter oder Chefredaktor ein
+Interview geben will, dann fühlen sich die Auserwählten geadelt. Auf
+führende Finanzblätter gehen die Wirtschaftsleader bzw. ihre Sprecher
+direkt zu – natürlich nur dann, wenn sie etwas platzieren möchten. Bei
+anderen Medien waren es über die Jahre vermehrt die Verlagschefs, die
+Interviews vermittelten. Bei manchen Verlagen sitzen die Vertreter von
+Banken und Konzernen bereits im Verwaltungsrat.
+
+Es ist nicht so, dass sich die für die Interviews auserwählten
+Journalisten zensurieren liessen – sie kämpfen auch für Aussagen, die
+die Kommunikationsabteilungen im Nachhinein streichen möchten. Doch es
+kommt ihnen gar nicht in den Sinn, gewisse Fragen zu stellen.
+
+Die Steuerung der Journalisten ist so subtil, dass viele den Vorwurf
+nicht ernstnehmen könnten, dass sie auf vielen Ebenen manipuliert oder
+zumindest eingeschränkt sind.
+
+#### Woher kommen die Stories und wieso werden sie publiziert
+
+Grob geschätzt sind die Themen bei über Dreiviertel der Berichte in
+Online- und Tagespublikationen durch aktuelle, äussere
+Ereignisse/Mitteilungen initiiert bzw. beeinflusst worden. Die
+Nachrichten­agenturen sind weitgehend reaktiv organisiert. Wenn also
+eine Mitteilung, Medien­konferenz etc. hereinkommt, dann kommt auch ein
+Bericht raus, Eigenständiges hat zweite Priorität.
+
+Bei Wochenpublikationen richten sich die Themen etwas weniger (etwa zu
+Zweidrittel) nach aktuellen äusseren Ereignissen – und wenn, dann mit
+dem Ziel, die Begebenheit eigenständig weiterzudrehen.
+
+Kriterien für die Relevanz eines äusseren Ereignisses und
+Berichterstattung darüber sind Nähe, Grösse, Aussergewöhnlichkeit und
+Folgeeffekte für das eigene Land: Wahlen in den USA, grossen EU-Staaten
+oder Iran, Terroranschläge in Frankreich oder Bundesratsentscheide
+fallen in diese Kategorie. In den klassischen Relevanzkriterien keinen
+oder wenig Platz finden z.B. Terroranschläge mit heimischen Opfern in
+Somalia oder Wahlen in Peru.
+
+Da Ausland-News vor allem von amerikanischen, deutschen, englischen und
+französischen Agenturen (AP, Reuters, AFP, DPA und Schweizer Partnerin
+SDA) in die Redaktionen und an die Korrespondenten fliessen, ist die
+Grösse, Nähe etc. aus der Sicht dieser Staaten definiert.
+
+Auch für kleinere Ereignisse gibt es klare Kriterien, oft werden sie
+aber nicht klar ausgesprochen. Bei etlichen Tages- und Wochenzeitungen
+habe ich zudem erlebt, dass auf grosse Inserenten Rücksicht genommen
+wurde, indem man freundliche Texte verfasste und Kritik blockierte.
+
+#### Abläufe auf der Redaktion
+
+Die vorbereitenden Redaktionssitzungen sind oft nach grossen aktuellen
+Metathemen und den Stories aus den Ressorts aufgebaut. Der Vorgang ist
+wie auf einem Bazar, wo die Ressortleiter die einzelnen Ideen auf den
+Markt werfen. Bevor eine Story gesetzt ist, fragt der Chefredaktor, was
+zu den aktuellen Themen vorhanden ist und was Wichtiges vergessen wurde.
+
+Ein solches Thema, „zu dem wir unbedingt etwas haben müssen“, sind
+aktuelle Debatten, kürzliche oder erwartete Ereignisse oder eine Story
+mit Einschaltquoten, die Konkurrenten angestossen haben. Manchmal ist es
+auch eine prominente Person, die noch nichts gesagt hat zu einem Thema –
+die „wir zuerst haben wollen“.
+
+Darüber, was Schwerpunktthemen sein können, herrscht weitgehend Konsens.
+Bei der Gewichtung ist Relevanz, Einschaltquote (Promis, Kontroverse,
+Ausland ist meistens zu weit weg von den Leuten) ausschlaggebend,
+weniger die Ausgewogenheit der Story. Es kommt regelmässig vor, dass
+Stories während der Recherche von Konkurrenten „abgetischt“ werden, und
+deshalb gekippt werden.
+
+Das Gefühl der Beliebigkeit entsteht, wenn am Morgen (Tageszeitung) oder
+Dienstag (Sonntags­publikation) „Die Themen“ zu stehen scheinen, sie
+aber bis am Abend oder Freitag vom Tisch sind. Manchmal ist das
+berechtigt wegen neuen Entwicklungen, oder wegen Recherchen, die im
+Sande verlaufen. Oft wechseln die Prioritäten jedoch, weil der
+Chefredaktor plötzlich etwas anderes wichtiger findet. Beispielsweise
+eine Story, auf die er selbst gekommen ist. Transparenz über solche
+Entscheide oder klare Kriterien gibt es nicht.
+
+Im Sinne der freien Presse sind die einzelnen Journalisten selten in der
+Lage, verbindliche Zusagen darüber zu machen, dass erhaltene Infos auch
+erscheinen werden. Das ist eigentlich ein Zeichen für die
+journalistische Unabhängigkeit. Aber oft ist Unverbindlichkeit auch
+notwendig, weil die Führung chaotisch und konzeptlos ist. Die Situation,
+dass ein Journalist jemanden kurzfristig aufbietet für ein Interview,
+dieses dann aber nicht erscheint, ist normal.
+
+Im Gegenzug ist aber auch der Fall häufig, dass eine Story oder ein
+Interview gesetzt ist, egal was. Alles was mit hiesigen IS-Anhängern zu
+tun hatte, war die letzten Jahre gefragt – egal wie lau und ob „more of
+the same.“ Die Begründung für eine Story ist oft nicht nachvollziehbar,
+wer nachfragt, wird abgewiegelt. Dass sich ein Ressort zusammen für eine
+Story stark macht, kommt selten vor. Als Kompromiss lässt sich eine
+Story immer auf 60 Zeilen zusammenkürzen.
+
+Die Stories der sogenannten Recherche-Desks, Investigativteams und
+Autorenpools müssen selten um Platz oder Zeit kämpfen. Sie sind auch
+selten an die Aktualität gebunden. Seit einigen Jahren sind diese Teams
+Prestigeprojekte der Verleger. Sie erhalten mehr Mittel und
+Datenspezialisten. Dadurch, dass diese Teams zumeist international
+vernetzt sind, z.B. mit Lena (Europäische Medienallianz), kommen sie
+auch an Recherchen von internationalen Journalisten.
+
+Die Förderung und die internationale Kräftekonzentration von
+Investigativ-Journalismus wäre eigentlich ein guter Ansatz zur
+Qualitätssteigerung. Leider führen die Produkte auch zu einer
+internationalen Gleichschaltung der Stories. Als ob es nicht bereits
+ausreichen würde, dass die nationalen Berichte oftmals sehr ähnlich bis
+deckungsgleich sind.
+
+Es wäre überdies interessant zu untersuchen, wessen Interessen die
+international koordinierten Recherche-Stories dienen, und was die
+„Bösen“ dieser Stories gemeinsam haben oder was nicht.
+
+Für den einzelnen Zeitungsjournalisten gilt: Wer eine zündende Idee mit
+Rechercheresultat und guten Zitaten hat, bringt seine Story durch.
+Mindestens die Hälfte der Redaktoren ist aber zu stark damit
+beschäf­tigt, die aktuellen *Musts* oder Abklärungen zu erledigen, um
+selbst eine Story entwickeln zu können.
+
+Es gibt verschiedene Strategien: Journalisten, die wenig selbst
+entwickeln, aber Ideen/Inputs der Chefs ausführen, können am ehesten mit
+prominenter Platzierung rechnen – Absatzgarantie. Was in der eigenen
+Kompetenz der Journalisten ist, und was vorgegeben ist, ist also sehr
+individuell.
+
+Deutlich weniger gefragt als bei den Printmedien sind eigene Ideen beim
+Fernsehen: Das hat einerseits mit dem Filmaufwand und den vielen
+Produktionsschritten zu tun, wo Teamarbeit Sinn macht. In den
+TV-Newsabteilungen werden Story-Ideen auch von Inputern eingebracht, die
+quasi den Überblick über die News-Lage haben. Es handelt sich dabei um
+erfahrene Journalisten, deren Kernkompetenz nicht das TV-Handwerk ist.
+
+Andererseits sind bei der Entwicklung der Story sehr viele Leute
+beteiligt (Inputer, Ressortleiter, Produzent und Chefredaktor der
+Sendung), die auch noch mitreden und sich quasi im Ergebnis sehen
+wollen.
+
+Die Entwicklung eines TV-Beitrags ist ein langer Prozess, bei dem der
+Redaktor seine Idee verfeinern kann, oder sie aber verwässert wird. Beim
+TV gibt es mehr handwerkliche Gründe als anderswo, wieso sich erste
+Story-Ideen nicht umsetzen lassen (z.B. visuell unattraktiv). Der eigene
+Gestaltungsspielraum der TV-Journalisten ist deutlich geringer als bei
+den Print-Journalisten.
+
+#### Deutungsmuster
+
+Die Einordnung von Ereignissen und Entwicklungen geschieht in den
+Massenmedien nicht mit einem verbindlichen Deutungsmuster – weil es ohne
+verbindliche Haltung (siehe oben) auch kein Deutungs­muster geben kann.
+
+Nichtsdestotrotz herrschen aufgrund der Quellenlage bestimmte
+Denkstrassen vor, von denen der einzelne zwar abweichen kann, aber nur
+ab und zu, nie systematisch. Bei internationalen Konflikten wie in der
+Ukraine oder Syrien dominiert die Sicht der USA. Bei Terroranschlägen
+dasselbe.
+
+#### Woher Propaganda kommt
+
+Es besteht keinerlei Bereitschaft/Anlass, die bestehenden Feindbilder zu
+hinterfragen. Aufgrund der Verarbeitung der Informationsflut, vor allem
+aus dem Ausland (Agenturen), bleibt keine Zeit für Grundsätzliches. Für
+Auslandressortleiter ist das Briefing und Updating der Korrespondenten
+teilweise sehr aufwändig. Ein langjähriger US-Korrespondent z.B.
+brauchte stundenlanges Zureden, damit er das Büro verliess, um in der
+Realität zu recherchieren.
+
+Während der Ukrainekrise waren zwar Interviews und Artikel aus
+russischer Sicht erlaubt, sie gingen aber in der Konsensmeinung unter.
+Und sowieso glaubt man die Sicht der anderen Seite immer schon zu
+kennen, da muss man nicht noch tiefer gehen. Der Propaganda wird nur die
+„böse“ Seite bezichtigt.
+
+Zur Gleichschaltung bei den Quellen und Perspektiven tragen auch die
+neuen internationalen Netzwerke bei. So druckte das grösste Schweizer
+Medienhaus unter anderem Auslandberichte der *Welt/Welt am Sonntag* ab,
+heute werden vornehmlich Berichte aus der *Süddeutschen* in der Schweiz
+zweitverwertet. Geliefert wurde z.B. eine Reportage darüber, wie die
+Putin-Jugend in Camps nationalistisch gedrillt wird – das bedient alle
+Klischees von Russlands Propaganda-Krieg.
+
+#### Über legitime Quellen herrscht weitgehend Konsens
+
+Neben den handelsüblichen Quellen, den Agenturen und nationalen
+Konkurrenzmedien/-portalen, gehen Journalisten Auskunftsquellen auch
+direkt an. Es zählt: Wer bringt News und Klicks (Prominenz, knackige
+Aussagen). Bei den Experten: Wer macht nicht zu viel Aufwand, wer war
+nicht schon überall zum jeweils aktuellen Thema. Beim TV geht es auch
+darum, wer kameratauglich ist und etwas sagt, das wir brauchen können.
+
+Die Wahl weniger bekannter Quellen muss begründet werden. Öfters
+basieren Stories auf anonymen Quellen. Diese werden aber im Normalfall
+sauber geprüft, bei heiklen Aussagen gibt es Doppelchecks.
+
+Bei den sozialen Medien ist Twitter als Quelle sehr verbreitet.
+Allerdings ist der Twitter-Kreis, dem einzelne Journalisten in
+Mainstreammedien folgen, ziemlich eng – man folgt den anderen in der
+Branche und den Twitter-Kanälen von Mainstreammedien. Zum Teil sind die
+Gefolgten deckungsgleich – Journalisten mit originellen Twitter-Quellen
+sind rar. Twitter wird auch zum Werben für die eigenen Publikationen
+genutzt. Man folgt, wer einem folgt – de facto ist das ein geschlossener
+Kreis.
+
+Der öffentliche Rundfunk ist sehr akribisch mit der Zeit, die einzelnen
+Partei-Quellen gewährt wird, besonders vor Abstimmungen. Die Zeitungen
+versuchen ebenfalls alle Seiten zu Wort kommen zu lassen. Am Ende
+erhalten aber nur jene Politiker Platz, die etwas Spannendes oder
+Kontroverses zu sagen haben.
+
+Die eigenen Korrespondenten-Netzwerke der Zeitungen sind die letzten
+Jahre massiv geschrumpft – eine versiegende Quelle. Die
+Korrespondenten-Artikel gelten oft als Manövriermasse, wenn es ums
+Sparen geht. «Wir können auch die Agentur nehmen…», heisst es dann.
+Korrespondenten, die Publikationen oder Aufträge der Redaktion
+hinterfragen, sind rar – wer sägt schon am dünnen Ast, auf dem er sitzt.
+
+In der Auslands- bzw. Wirtschaftsberichterstattung werden
+*Spiegel-Online, Die Welt, Die Süddeutsche,* die *Financial Times,* der
+*Economist,* der *Guardian,* die *New York Times,* und das *Wall Street
+Journal* konsultiert. Systematisch bearbeitet werden diese
+internationalen Medien in erster Linie von Chefredaktoren und
+Ressortleitern. Da geht es nicht nur um das Informieren, sondern auch um
+das Inspirieren bzw. Kopieren.
+
+Dass eigene Themen oder spannende Thesen, die die *New York Times*
+publiziert hat, zwei bis drei Wochen später 1:1 in einer Planungssitzung
+vorgeschlagen werden, kommt oft vor. Chefredaktoren zeigen sich meistens
+begeistert und machen nicht den Anschein, dass sie das schon gelesen
+haben. Wer darauf hinweist, dass das eine Kopie ist, macht sich
+entsprechend unbeliebt.
+
+Ob das eine bewusste Orientierung an solchen Leitmedien ist, ist
+fraglich. Es ist wohl eher eine unbewusste Orientierung verbunden mit
+mangelndem Ehrgeiz und Zeit, etwas Eigenes auf die Beine zu stellen.
+Aber es ist wahrscheinlicher, dass sich die leitenden Redaktoren zu
+wenig über Auslandmedien informieren, als dass sie sich zu stark davon
+beeinflussen liessen.
+
+Um die Jahrtausendwende waren Redaktionen ein Paradies mit
+verschiedensten Publikationen, in denen man rumschmökern konnte.
+Inzwischen bestellen die Redaktionen immer mehr Publikationen ab – die
+oftmals nicht mit einem Online-Zugang ersetzt werden.
+
+Um manche Quellen müssen sich Journalisten nicht selber bemühen, sie
+kommen von selbst. Bei wirtschaftlichen Ereignissen kommt es öfters vor,
+dass PR-Agenturen der jeweiligen Akteure die Medien füttern. Ihre
+eigenen Interessen vertreten auch Verwaltungsräte, die off-the-record
+Informationen an Journalisten weitergeben. Beliebte Infoquellen sind
+auch manche Politiker. Mit deren “exklusiven” Informationen über
+geplante politische Vorstösse lassen sich ganze Sonntags­zeitungen
+füllen.
+
+Für internationale Berichte kommen auch Nichtregierungsorganisationen
+(NGO) vor Ort zu Wort, allerdings oft nur mit Ergänzungen von Beispielen
+und Schicksalen. Die politischen Ansichten der NGO werden meist nicht
+transportiert. Wenn ein Auslandbericht etwas tiefer geht, dann wird oft
+personifiziert – Schicksale lassen sich relativ apolitisch abhandeln.
+
+#### Welche Quellen tabu sind
+
+Eine rote Linie bei den Quellen gibt es nicht explizit. Vielmehr ist
+Selbstzensur üblich, indem man nicht die Quellen fragt, die total gegen
+den Strom schwimmen. Oft sind Quellen auch nur „die üblichen
+Verdächtigen“ – man klappert diejenigen ab, die man schon immer
+abgeklappert hat. Daher gleichen sich die Berichte zwischen den Medien
+auch sehr. Eine Art rote Linie gibt es für den Platz, den man einräumt.
+Den meisten Platz erhalten nicht die Systemkritiker, sondern jene, die
+die Allgemeinmeinung nicht zu fest angreifen.
+
+#### Klare Hierarchien trotz Kumpelhaftigkeit
+
+Die Hierarchien spielen auf manchen Redaktionen eine sehr starke Rolle.
+Auch wenn sich die Vorgesetzten sehr offen geben: Entscheide von
+Ressortleitern, geschweige denn von Chefredaktoren werden kaum
+hinterfragt. In allen Medien machen Blattmacher, Art Directors und
+Ressortleiter mitunter die meiste Vorarbeit, können konträre Ansichten
+aber nicht gegen den Chefredaktor und seine ein bis zwei loyalen
+Mitarbeiter (z.B. Stellvertreter) durchsetzen – sofern sie nicht sowieso
+nur den Chefredaktor bestätigen. Oft setzen die unteren Kaderstufen die
+Wünsche ihrer Chefs härter durch als ihre Vorgesetzten es selbst würden
+(vorauseilender Gehorsam, absolute Loyalität in der Hierarchie). Ein
+echtes internes Korrektiv ist inzwischen die Ausnahme.
+
+In die Mainstreammedien geht man nicht, um viel Geld zu verdienen. Die
+Löhne sind vergleichsweise tief. Nur in wenigen Kaderposten sind sie
+lukrativ. Wer sich die sich stets verschlechternden Arbeitsbedingungen
+(schrumpfende Lohnnebenleistungen, immer längere Arbeitszeiten) antut,
+macht dies am ehesten aus Überzeugung oder aber aus Profilierungslust.
+
+Journalist kann sich jeder nennen, und so manche Leute denken, das
+Metier könnten sie auch. Tatsache ist aber, dass die Qualität der
+Ausbildung durch neue Studiengänge in den letzten Jahren deutlich
+zugenommen hat. Die heutigen Journalismus-Lehrgänge sind sehr umfassend:
+von Recht, Ethik, Multimedia, Genres, bis zu Stil etc. wird sehr vieles
+vermittelt.
+
+Jungjournalisten müssen sich meistens abverdienen mit mühsamen Umfragen
+und Zudienen, bevor sie etwas Eigenes machen können. Immer öfters
+steigen Praktikanten nicht mehr mit Feuer und Flamme in den Journalismus
+ein. Weil viele von ihnen Journalismus zusammen mit PR studiert haben,
+ist es typisch, dass sie offen lassen, ob sie sich mit ihren
+Kommunikationsfähigkeiten im Journalismus oder in der PR
+weiterentwickeln möchten.
+
+Die Selektion von Jungen ist leistungsorientiert, aber auch immer
+abhängig von der Zusammensetzung der Teams. Wer ein
+Journalismus-Studium und Journalismus-Praktika ausweist, hat gute
+Chancen. In der Praxis wird schnell klar, wen man “brauchen” kann. Wer
+einmal im Journalismus “gelandet ist”, braucht ein gutes Netzwerk und
+einen guten Ruf. Die Leistung ist nicht mehr so wichtig, mehr zählt,
+“wer passt”. Chefredaktoren stellen viele ihrer Ex-Kollegen an – der
+Kuchen der erfahrenen Journalisten ist relativ klein.
+
+Kaderpositionen gehen nicht unbedingt an die besten Schreiber, sondern
+an jene, die zwar gut sind, aber wenig polarisieren. Wer den
+Ressortleitern und Chefredaktoren inhaltlich zu stark widerspricht,
+fördert seine Aufstiegschancen nicht. Wer “gefällt” hat es einfacher
+aufzusteigen. Chefredaktoren machen in der Blattkritik und in Sitzungen
+etwas „verpackt“ klar, was sie mochten und was nicht.
+
+#### Endzeitstimmung
+
+Der Arbeitsdruck und die Angst vor Jobverlust auf den Redaktionen sind
+überragend. Es handelt sich um eine Branche, in der die meisten davon
+ausgehen, dass sie nur noch schrumpft und weniger befriedigender zum
+Arbeiten wird. Die Vorgabe, mehr zu sparen, ist bei den führenden
+Schweizer Medienhäusern seit zwei Jahrzehnten omnipräsent. Manche
+Redaktionen sind bereits sehr ausgedünnt. Zehn- bis zwölfstündige
+Arbeitstage gelten als normal. Die Überzeit aufschreiben können
+Journalisten in den Printmedien selten.
+
+Das Sparen hat Folgen: Selbst Chefredaktoren und Ressortleiter, die
+Mehrwert liefern wollen, müssen sich mit dem reinen Abfüllen von Seiten
+mit Agenturen oder second class Stories zufrieden geben. Erfahrene
+Journalisten versuchen first class stories mit möglichst wenig Aufwand
+vorzuschlagen. Man weiss, was zieht – wieso vom Bewährten abrücken?
+
+Die meisten seilen sich bevor sie 50 werden in die PR ab. Das Angebot
+von gutbezahlten PR-Jobs ist für erfahrene Journalisten gross. Der
+Spruch: «jetzt gehe ich dann in die PR, weil das was ich hier mache ist
+nicht viel anders, einfach schlechter bezahlt», ist nicht unüblich.
+
+Wer die Überzeugung hat, mit Journalismus etwas bewirken zu können, ist
+sehr jung, oder wird ausgelacht von der Mehrheit.
+
+Vordergründig herrscht in den Mainstreammedien kompletter
+Meinungspluralismus – abgesehen von Einzelfällen tun sich Journalisten
+kaum mit festen Überzeugungen hervor: Man ist für alles offen, suspekt
+ist, wer eine Haltung hat und konsequent aus dieser Haltung berichtet.
+Die Journalisten mit einer konsequenten Weltanschauung sind rar. So wie
+man persönlich bei niemandem anecken will, zeigt man auch journalistisch
+keine Kanten, womit man polarisieren könnte.
+
+Hinter den Kulissen verstehen die Verlage ihre öffentlichen Medien immer
+noch als «vierte Gewalt» im Staat. Aber sie wissen wohl selbst, dass sie
+diese Schritt um Schritt entmachten – mit ihren Sparstrategien, dem
+Abbau der Vielfalt etwa durch vereinheitlichte Mantelredaktionen und
+ihrer Orientierungslosigkeit.
+
+Es ist nicht so, dass es vor 20 bis 30 Jahren auf den Redaktionsstuben
+keine Selbstzensur, Gleich­schaltung, vorauseilenden Gehorsam und
+Tunnelblick gegeben hätte. Doch die Rahmen­bedingungen in den heutigen
+„Redaktions­fabriken“ der Mainstream-Medien fördern geradezu den
+ideologielosen, opportunistischen, Klick-orientierten Journalismus, dem
+die wichtigen Fragen entgleiten.
+
+Es ist leider ein Journalismus, der durch die Röhre guckt. Eine
+geförderte, aber dennoch freiwillige Beschränkung der Perspektive
+bedroht die Unabhängigkeit der vierten Gewalt mehr denn je.
+
+\*\*\*
+
+Der Autor ist Schweizer Journalist. Er ist nicht Mitglied der
+Forschungsgruppe SPR.
+
+**Copyright-Hinweis:** Bei Interesse am Beitrag bitte auf diese Seite
+verlinken. Einzelne Auszüge und Zitate dürfen übernommen werden (keine
+Volltext-Kopie).
+
+-----
+
+Beitrag teilen auf:
+[Twitter](https://twitter.com/intent/tweet?url=https://swprs.org/bericht-eines-journalisten/)
+/
+[Facebook](https://www.facebook.com/share.php?u=https://swprs.org/bericht-eines-journalisten/)  
+Publiziert: Januar
+    2018
+
+</div>
+
+ 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="footer" class="footer bg-graphite">
+
+<div class="section-inner row clear" data-role="complementary">
+
+<div class="column column-1 one-third medium-padding">
+
+<div class="widgets">
+
+<div id="nav_menu-3" class="widget widget_nav_menu">
+
+<div class="widget-content clear">
+
+### Swiss Policy Research
+
+<div class="menu-allgemein-container">
+
+  - <span id="menu-item-251">[Kontakt](https://swprs.org/kontakt/)</span>
+  - <span id="menu-item-33090">[Übersicht](https://swprs.org/uebersicht/)</span>
+  - <span id="menu-item-33286">[Donationen](https://swprs.org/donationen/)</span>
+  - <span id="menu-item-15372">[Disclaimer](https://swprs.org/disclaimer/)</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="column column-2 one-third medium-padding">
+
+<div class="widgets">
+
+<div id="nav_menu-4" class="widget widget_nav_menu">
+
+<div class="widget-content clear">
+
+### English
+
+<div class="menu-english-container">
+
+  - <span id="menu-item-20017">[About Us /
+    Contact](https://swprs.org/contact/)</span>
+  - <span id="menu-item-20015">[The Media
+    Navigator](https://swprs.org/media-navigator/)</span>
+  - <span id="menu-item-20016">[The CFR and the
+    Media](https://swprs.org/the-american-empire-and-its-media/)</span>
+  - <span id="menu-item-33285">[Donations](https://swprs.org/donations/)</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="column column-3 one-third medium-padding">
+
+<div class="widgets">
+
+<div id="blog_subscription-4" class="widget widget_blog_subscription jetpack_subscription_widget">
+
+<div class="widget-content clear">
+
+### Follow by email
+
+Follow
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="credits section bg-dark small-padding">
+
+<div class="credits-inner section-inner clear">
+
+[WordPress.com](https://wordpress.com/?ref=footer_custom_com).
+
+[Up ↑](# "To the top")
+
+</div>
+
+</div>
+
+<div style="display:none">
+
+</div>
+
+![](https://pixel.wp.com/b.gif?v=noscript)
